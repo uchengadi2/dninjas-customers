@@ -529,7 +529,7 @@ const Marketplace = (props) => {
                         }}
                       >
                         {" "}
-                        We are your trusted neighbourhood gas shop. <br />
+                        We are your trusted neighbourhood gas shopppp. <br />
                       </span>{" "}
                       <span style={{ marginLeft: matchesSM ? 20 : 20 }}>
                         We sale cooking gas accessories and
